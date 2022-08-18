@@ -1,5 +1,5 @@
 # FletcherMap
-v1.0
+v1.0.0
 - Full Overworld Practice
-- Innacurate Timers
+- Inaccurate Timers
 - God Chests
